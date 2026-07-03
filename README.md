@@ -10,48 +10,48 @@
 
 ## About Me
 
-私は、**九州工業大学大学院 情報工学府**に所属する修士1年です。  
-**2028年3月修了予定**です。
+I am a first-year master's student at the **Graduate School of Computer Science and Systems Engineering, Kyushu Institute of Technology**.  
+I am expected to graduate in **March 2028**.
 
-専攻は**情報セキュリティ**であり、研究、ソフトウェア実装、実践的なセキュリティの考え方を組み合わせながら、安全なシステムを構築することに関心があります。
+My major is **information security**, and I am interested in building secure systems by combining research, software implementation, and practical security thinking.
 
-特に、以下の分野に興味があります。
+I am especially interested in:
 
-- サイバーセキュリティ
-- ブロックチェーン解析
-- 暗号技術と応用セキュリティ
-- APIセキュリティ
-- AIエージェントと安全な自動化
-- セキュリティを意識したソフトウェア設計
+- Cybersecurity
+- Blockchain analysis
+- Cryptography and applied security
+- API security
+- AI agents and secure automation
+- Security-focused software design
 
-技術分野以外では、**ストリートダンス**が趣味です。  
-ダンスやチーム活動を通じて、コミュニケーション、継続的な練習、共通の目標に向けてチームを導くことの大切さを学びました。
+Outside of technology, I enjoy **street dance**.  
+Through dance and team activities, I have learned the importance of communication, continuous practice, and leading a team toward a shared goal.
 
 ## Research
 
 ### Agent AI × API Security
 
-現在の修士研究では、**SaaSやクラウドAPIを横断して操作するエージェント型AIシステム**に対するセキュリティ機構に取り組んでいます。
+My current master's research focuses on security mechanisms for **agent-based AI systems that operate across SaaS and cloud APIs**.
 
-AIエージェントが外部ツールやAPIを通じて実際の操作を行えるようになるにつれて、どの操作を許可するのか、その操作が正当に認可されたものか、そして後から信頼できる形で行動を確認できるかが重要になります。
+As AI agents become capable of performing actions through external tools and APIs, it becomes increasingly important to control what they are allowed to do, verify whether their actions are authorized, and preserve trustworthy records of their behavior.
 
-私の研究では、以下を組み合わせた統合的な設計を検討しています。
+My research explores an integrated design that combines:
 
-- **署名付き命令**による、不正または改ざんされた命令の防止
-- **検証可能な権限証明**による、過剰権限の抑制
-- **改ざん耐性のある監査ログ**による、後からの調査と説明責任の支援
+- **Signed instructions** to prevent unauthorized or altered commands
+- **Verifiable permission proofs** to reduce excessive privileges
+- **Tamper-resistant audit logs** to support later inspection and accountability
 
-この研究の目的は、不正なAPI操作、権限の悪用、リプレイ攻撃、ログ改ざん、プロンプトインジェクションに起因する越権操作などのリスクを防止または検知できるセキュリティフレームワークを設計し、プロトタイプとして実装することです。
+The goal is to design and prototype a security framework that can help prevent or detect risks such as unauthorized API operations, privilege misuse, replay attacks, log tampering, and prompt-injection-induced overreach.
 
 ## Previous Research
 
 ### Cross-Chain Transaction Tracing
 
-学部研究では、異なるブロックチェーン基盤間の**クロスチェーン取引追跡**に取り組みました。
+In my undergraduate research, I worked on **cross-chain transaction tracing** between different blockchain ecosystems.
 
-この研究では、単一の正解を断定するのではなく、ブロックチェーン間で対応すると考えられる取引候補を順位付けすることに焦点を当てました。
+The research focused on estimating corresponding transactions across blockchains by ranking candidate transactions instead of simply determining a single answer.
 
-このアプローチは、調査や分析の場面において、過度に断定的な結論を避けつつ、手作業による確認コストを削減できる点で有用です。
+This approach is useful in investigation and analysis scenarios because it can reduce the cost of manual verification while avoiding overconfident conclusions.
 
 ## Tech Stack
 
@@ -72,9 +72,9 @@ AIエージェントが外部ツールやAPIを通じて実際の操作を行え
 
 ## Writing
 
-Qiitaでは、主にセキュリティ、暗号技術、ブロックチェーンに関連する技術記事を執筆しています。
+I also write technical articles on Qiita, mainly about security, cryptography, and blockchain-related topics.
 
-技術的な内容を正確に整理しつつ、これからセキュリティを学ぶ人にも分かりやすく、段階的に理解できる記事を書くことを目標にしています。
+My goal is to explain technical concepts in a way that is accurate, understandable, and useful for beginners who want to study security step by step.
 
 - [Qiita: Kiryu_Kurauchi](https://qiita.com/Kiryu_Kurauchi)
 
@@ -90,15 +90,15 @@ Qiitaでは、主にセキュリティ、暗号技術、ブロックチェーン
 
 ## Current Focus
 
-- AIエージェントのための安全なアーキテクチャ設計
-- APIセキュリティとアクセス制御の学習
-- セキュリティとブロックチェーンに関する技術記事の執筆
-- 研究に基づく実装を通じたポートフォリオの充実
-- セキュリティ、金融IT、AI関連システム領域でのキャリア形成
+- Designing secure architectures for AI agents
+- Studying API security and access control
+- Writing technical articles about security and blockchain
+- Improving my portfolio through research-based implementation
+- Preparing for a career in security, financial IT, and AI-related systems
 
 ## Contact
 
-GitHubリポジトリやQiita記事をご覧いただけますと幸いです。
+Please feel free to check my GitHub repositories and Qiita articles.
 
 <p align="left">
   <a href="https://qiita.com/Kiryu_Kurauchi">
