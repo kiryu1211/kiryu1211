@@ -1,0 +1,373 @@
+<svg
+  fill="none"
+  viewBox="0 0 2100 720"
+  width="2100"
+  height="720"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <foreignObject width="100%" height="100%">
+    <div class="terminal" xmlns="http://www.w3.org/1999/xhtml">
+      <div class="terminal-header">
+        <div class="window-controls">
+          <div class="control close"></div>
+          <div class="control minimize"></div>
+          <div class="control maximize"></div>
+        </div>
+        <div class="terminal-title">My Profile - Terminal</div>
+      </div>
+      <div class="terminal-body">
+        <div class="terminal-content">
+          <div class="terminal-line command-line">
+            <div class="terminal-prompt">
+              <span class="terminal-prompt__host">kiryu1211@github</span>
+              <span class="terminal-prompt__colon">:</span>
+              <span class="terminal-prompt__path">~</span>
+              <span class="terminal-prompt__dollar">$</span>
+            </div>
+            <div class="terminal-command whoami">
+                <span class="terminal-command__char" style="--char-index: 0">w</span>
+                <span class="terminal-command__char" style="--char-index: 1">h</span>
+                <span class="terminal-command__char" style="--char-index: 2">o</span>
+                <span class="terminal-command__char" style="--char-index: 3">_</span>
+                <span class="terminal-command__char" style="--char-index: 4">a</span>
+                <span class="terminal-command__char" style="--char-index: 5">m</span>
+                <span class="terminal-command__char" style="--char-index: 6">_</span>
+                <span class="terminal-command__char" style="--char-index: 7">i</span>
+            </div>
+            <span class="terminal-cursor">|</span>
+          </div>
+
+          <div class="name-output">Kiryu_Kurauchi</div>
+
+          <div class="terminal-line subtitle-line">
+            <div class="terminal-command description">
+                <span class="terminal-command__char" style="--char-index: 0">M</span>
+                <span class="terminal-command__char" style="--char-index: 1">a</span>
+                <span class="terminal-command__char" style="--char-index: 2">s</span>
+                <span class="terminal-command__char" style="--char-index: 3">t</span>
+                <span class="terminal-command__char" style="--char-index: 4">e</span>
+                <span class="terminal-command__char" style="--char-index: 5">r</span>
+                <span class="terminal-command__char" style="--char-index: 6">'</span>
+                <span class="terminal-command__char" style="--char-index: 7">s</span>
+                <span class="terminal-command__char" style="--char-index: 8"> </span>
+                <span class="terminal-command__char" style="--char-index: 9">S</span>
+                <span class="terminal-command__char" style="--char-index: 10">t</span>
+                <span class="terminal-command__char" style="--char-index: 11">u</span>
+                <span class="terminal-command__char" style="--char-index: 12">d</span>
+                <span class="terminal-command__char" style="--char-index: 13">e</span>
+                <span class="terminal-command__char" style="--char-index: 14">n</span>
+                <span class="terminal-command__char" style="--char-index: 15">t</span>
+                <span class="terminal-command__char" style="--char-index: 16"> </span>
+                <span class="terminal-command__char" style="--char-index: 17">|</span>
+                <span class="terminal-command__char" style="--char-index: 18"> </span>
+                <span class="terminal-command__char" style="--char-index: 19">G</span>
+                <span class="terminal-command__char" style="--char-index: 20">r</span>
+                <span class="terminal-command__char" style="--char-index: 21">a</span>
+                <span class="terminal-command__char" style="--char-index: 22">d</span>
+                <span class="terminal-command__char" style="--char-index: 23">u</span>
+                <span class="terminal-command__char" style="--char-index: 24">a</span>
+                <span class="terminal-command__char" style="--char-index: 25">t</span>
+                <span class="terminal-command__char" style="--char-index: 26">e</span>
+                <span class="terminal-command__char" style="--char-index: 27"> </span>
+                <span class="terminal-command__char" style="--char-index: 28">S</span>
+                <span class="terminal-command__char" style="--char-index: 29">c</span>
+                <span class="terminal-command__char" style="--char-index: 30">h</span>
+                <span class="terminal-command__char" style="--char-index: 31">o</span>
+                <span class="terminal-command__char" style="--char-index: 32">o</span>
+                <span class="terminal-command__char" style="--char-index: 33">l</span>
+                <span class="terminal-command__char" style="--char-index: 34"> </span>
+                <span class="terminal-command__char" style="--char-index: 35">o</span>
+                <span class="terminal-command__char" style="--char-index: 36">f</span>
+                <span class="terminal-command__char" style="--char-index: 37"> </span>
+                <span class="terminal-command__char" style="--char-index: 38">C</span>
+                <span class="terminal-command__char" style="--char-index: 39">o</span>
+                <span class="terminal-command__char" style="--char-index: 40">m</span>
+                <span class="terminal-command__char" style="--char-index: 41">p</span>
+                <span class="terminal-command__char" style="--char-index: 42">u</span>
+                <span class="terminal-command__char" style="--char-index: 43">t</span>
+                <span class="terminal-command__char" style="--char-index: 44">e</span>
+                <span class="terminal-command__char" style="--char-index: 45">r</span>
+                <span class="terminal-command__char" style="--char-index: 46"> </span>
+                <span class="terminal-command__char" style="--char-index: 47">S</span>
+                <span class="terminal-command__char" style="--char-index: 48">c</span>
+                <span class="terminal-command__char" style="--char-index: 49">i</span>
+                <span class="terminal-command__char" style="--char-index: 50">e</span>
+                <span class="terminal-command__char" style="--char-index: 51">n</span>
+                <span class="terminal-command__char" style="--char-index: 52">c</span>
+                <span class="terminal-command__char" style="--char-index: 53">e</span>
+                <span class="terminal-command__char" style="--char-index: 54"> </span>
+                <span class="terminal-command__char" style="--char-index: 55">a</span>
+                <span class="terminal-command__char" style="--char-index: 56">n</span>
+                <span class="terminal-command__char" style="--char-index: 57">d</span>
+                <span class="terminal-command__char" style="--char-index: 58"> </span>
+                <span class="terminal-command__char" style="--char-index: 59">S</span>
+                <span class="terminal-command__char" style="--char-index: 60">y</span>
+                <span class="terminal-command__char" style="--char-index: 61">s</span>
+                <span class="terminal-command__char" style="--char-index: 62">t</span>
+                <span class="terminal-command__char" style="--char-index: 63">e</span>
+                <span class="terminal-command__char" style="--char-index: 64">m</span>
+                <span class="terminal-command__char" style="--char-index: 65">s</span>
+                <span class="terminal-command__char" style="--char-index: 66"> </span>
+                <span class="terminal-command__char" style="--char-index: 67">E</span>
+                <span class="terminal-command__char" style="--char-index: 68">n</span>
+                <span class="terminal-command__char" style="--char-index: 69">g</span>
+                <span class="terminal-command__char" style="--char-index: 70">i</span>
+                <span class="terminal-command__char" style="--char-index: 71">n</span>
+                <span class="terminal-command__char" style="--char-index: 72">e</span>
+                <span class="terminal-command__char" style="--char-index: 73">e</span>
+                <span class="terminal-command__char" style="--char-index: 74">r</span>
+                <span class="terminal-command__char" style="--char-index: 75">i</span>
+                <span class="terminal-command__char" style="--char-index: 76">n</span>
+                <span class="terminal-command__char" style="--char-index: 77">g</span>
+                <span class="terminal-command__char" style="--char-index: 78">,</span>
+                <span class="terminal-command__char" style="--char-index: 79"> </span>
+                <span class="terminal-command__char" style="--char-index: 80">K</span>
+                <span class="terminal-command__char" style="--char-index: 81">y</span>
+                <span class="terminal-command__char" style="--char-index: 82">u</span>
+                <span class="terminal-command__char" style="--char-index: 83">s</span>
+                <span class="terminal-command__char" style="--char-index: 84">h</span>
+                <span class="terminal-command__char" style="--char-index: 85">u</span>
+                <span class="terminal-command__char" style="--char-index: 86"> </span>
+                <span class="terminal-command__char" style="--char-index: 87">I</span>
+                <span class="terminal-command__char" style="--char-index: 88">n</span>
+                <span class="terminal-command__char" style="--char-index: 89">s</span>
+                <span class="terminal-command__char" style="--char-index: 90">t</span>
+                <span class="terminal-command__char" style="--char-index: 91">i</span>
+                <span class="terminal-command__char" style="--char-index: 92">t</span>
+                <span class="terminal-command__char" style="--char-index: 93">u</span>
+                <span class="terminal-command__char" style="--char-index: 94">t</span>
+                <span class="terminal-command__char" style="--char-index: 95">e</span>
+                <span class="terminal-command__char" style="--char-index: 96"> </span>
+                <span class="terminal-command__char" style="--char-index: 97">o</span>
+                <span class="terminal-command__char" style="--char-index: 98">f</span>
+                <span class="terminal-command__char" style="--char-index: 99"> </span>
+                <span class="terminal-command__char" style="--char-index: 100">T</span>
+                <span class="terminal-command__char" style="--char-index: 101">e</span>
+                <span class="terminal-command__char" style="--char-index: 102">c</span>
+                <span class="terminal-command__char" style="--char-index: 103">h</span>
+                <span class="terminal-command__char" style="--char-index: 104">n</span>
+                <span class="terminal-command__char" style="--char-index: 105">o</span>
+                <span class="terminal-command__char" style="--char-index: 106">l</span>
+                <span class="terminal-command__char" style="--char-index: 107">o</span>
+                <span class="terminal-command__char" style="--char-index: 108">g</span>
+                <span class="terminal-command__char" style="--char-index: 109">y</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <style>
+        * {
+          margin: 0;
+          padding: 0;
+          font-family: 'Consolas', monospace;
+          box-sizing: border-box;
+        }
+
+        svg {
+          font-size: 48px;
+        }
+
+        .terminal {
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+          height: 100%;
+          background-image: linear-gradient(
+            90deg,
+            #010711 0%,
+            #020d1d 30%,
+            #020d1d 70%,
+            #010711 100%
+          );
+          border-radius: 0.625rem;
+          border: 0.0625rem solid #30363d;
+          box-shadow: 0 0.625rem 2.5rem #010a18c9;
+          overflow: hidden;
+        }
+
+        .terminal-header {
+          background-image: linear-gradient(
+            90deg,
+            #0c1a30 0%,
+            #152236 30%,
+            #152236 70%,
+            #0c1a30 100%
+          );
+          display: flex;
+          align-items: center;
+          padding: 1rem 1.25rem;
+          border-bottom: 0.0625rem solid #30363d;
+          position: relative;
+        }
+
+        .window-controls {
+          display: flex;
+          gap: 0.5rem;
+        }
+
+        .control {
+          width: 0.75rem;
+          height: 0.75rem;
+          border-radius: 50%;
+        }
+
+        .control.close { background: #ff5f56; }
+        .control.minimize { background: #ffbd2e; }
+        .control.maximize { background: #27ca3f; }
+
+        .terminal-title {
+          position: absolute;
+          left: 50%;
+          transform: translateX(-50%);
+          color: #8b949e;
+          font-size: 0.875rem;
+          font-weight: 500;
+        }
+
+        .terminal-body {
+          flex-grow: 1;
+          padding: 1.25rem;
+          display: flex;
+          align-items: center;
+        }
+
+        .terminal-content {
+          width: 100%;
+        }
+
+        .terminal-line {
+          display: flex;
+          align-items: center;
+          margin-bottom: 0.625rem;
+        }
+
+        .command-line {
+          margin-bottom: 1.6rem;
+        }
+
+        .terminal-prompt {
+          display: flex;
+          font-size: 1.3rem;
+        }
+
+        .terminal-prompt__host { color: #008236; }
+        .terminal-prompt__colon { color: #d4d4d4; }
+        .terminal-prompt__path { color: #1447e6; }
+        .terminal-prompt__dollar {
+          color: #d4d4d4;
+          margin-right: 0.625rem;
+        }
+
+        .terminal-command {
+          display: flex;
+          align-items: center;
+          color: #d4d4d4;
+          font-size: 1.3rem;
+        }
+
+        .terminal-command__char {
+          display: block;
+          width: 0;
+          overflow: hidden;
+          animation-name: appear;
+          animation-duration: 0s;
+          animation-fill-mode: forwards;
+        }
+
+        .terminal-command.whoami .terminal-command__char {
+          animation-delay: calc(1.25s + var(--char-index, 0) * 0.07s);
+        }
+
+        .terminal-cursor {
+          display: block;
+          color: #d4d4d4;
+          font-size: 1.5rem;
+          opacity: 0;
+          animation-name: blink;
+          animation-duration: 0.75s;
+          animation-fill-mode: infinite;
+          animation-iteration-count: 3;
+          animation-delay: 0s;
+        }
+
+        .name-output {
+          margin: 0.7rem 0 1.75rem;
+          text-align: center;
+          font-size: 2.45rem;
+          line-height: 1.08;
+          font-weight: 900;
+          letter-spacing: 0.02em;
+          transform: translateY(1.25rem);
+          opacity: 0;
+          background-image: linear-gradient(
+            135deg,
+            #38bdf8,
+            #a855f7,
+            #f472b6,
+            #22c55e,
+            #38bdf8
+          );
+          background-size: 400% auto;
+          background-clip: text;
+          -webkit-background-clip: text;
+          color: transparent;
+          -webkit-text-fill-color: transparent;
+          animation-name: fade-up, gradient;
+          animation-duration: 1s, 30s;
+          animation-fill-mode: forwards, none;
+          animation-timing-function: ease-out, linear;
+          animation-delay: 2.5s, 0s;
+          animation-iteration-count: 1, infinite;
+          white-space: nowrap;
+        }
+
+        .subtitle-line {
+          justify-content: center;
+          margin-top: 0.55rem;
+          margin-bottom: 0;
+        }
+
+        .terminal-command.description {
+          color: #ecc61b;
+          font-size: 0.68rem;
+          letter-spacing: -0.06em;
+          justify-content: center;
+          max-width: 100%;
+          flex-wrap: nowrap;
+        }
+
+        .terminal-command.description .terminal-command__char {
+          color: #ecc61b;
+          white-space: pre;
+          animation-delay: calc(4s + var(--char-index, 0) * 0.07s);
+        }
+
+        @keyframes appear {
+          0% { width: auto; }
+          100% { width: auto; }
+        }
+
+        @keyframes blink {
+          0%, 50% { opacity: 1; }
+          51%, 100% { opacity: 0; }
+        }
+
+        @keyframes fade-up {
+          0% {
+            opacity: 0;
+            transform: translateY(1.25rem);
+          }
+          100% {
+            opacity: 1;
+            transform: translateY(0);
+          }
+        }
+
+        @keyframes gradient {
+          0%, 100% { background-position: 0% center; }
+          50% { background-position: 400% center; }
+        }
+      </style>
+    </div>
+  </foreignObject>
+</svg>

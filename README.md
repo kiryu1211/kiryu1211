@@ -1,14 +1,115 @@
 # Hi! Welcome to my GitHub! 👋
 
+### 🌐 Language: English | [日本語](./README_ja.md)
+
+!["Terminal-Style Profile SVG with Animation"](./terminal.svg)
+
+## About Me 👾
+
+I am a first-year master's student at the **Graduate School of Computer Science and Systems Engineering, Kyushu Institute of Technology**.  
+I am expected to complete my master's program in **March 2028**.
+
+My major is **information security**, and I am working on research every day with the goal of building secure systems.
+
+## Languages & Tech Stack 🛠️
+
+### 💻 Programming Languages
+
+[![Programming Languages](https://skillicons.dev/icons?i=py,java,js,html,css,bash,c,cpp,haskell,matlab&theme=dark&perline=10)](https://skillicons.dev)
+
+### 📚 Libraries & Frameworks
+
+[![Library & Framework](https://skillicons.dev/icons?i=react,nextjs,flask,fastapi,pytorch,tensorflow,sklearn&theme=dark&perline=7)](https://skillicons.dev)
+
+### 🔨 Platforms
+
+[![Platforms](https://skillicons.dev/icons?i=linux,ubuntu,gcp,azure,docker,nodejs,mysql,postgres,sqlite&theme=dark&perline=10)](https://skillicons.dev)
+
+### 🧰 Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,npm,bun&theme=dark&perline=9)](https://skillicons.dev)
+
 <p align="left">
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge" alt="Claude Code" />
+</p>
+
+### 💾 Software
+
+[![Softwares](https://skillicons.dev/icons?i=vscode,androidstudio,pycharm,eclipse,unity,&theme=dark&perline=9)](https://skillicons.dev)
+
+### 📱 Applications
+
+[![Applications](https://skillicons.dev/icons?i=discord,gmail,notion,instagram,twitter,wordpress&theme=dark&perline=9)](https://skillicons.dev)
+
+### 🌱 Currently Studying
+
+[![In Studying](https://skillicons.dev/icons?i=php,ts,r,aws&theme=dark&perline=9)](https://skillicons.dev)
+
+## Hobby 🏃
+
+Outside of technology, I enjoy **street dance**.
+
+I currently belong to **Free Style**, the street dance club at Kyushu Institute of Technology. During my third undergraduate year, academic year 2024, I served as the club president and focused on creating a club environment where as many members as possible could enjoy participating and feel motivated to continue.  
+Through these club activities, I learned the importance of discussing ideas with others and leading a team toward a shared goal.
+
+My main achievements include **winning the individual category and placing second in the team category at a Kyushu university student street dance battle**, as well as **winning the Kyushu regional round of a university student dance contest and advancing to the national competition**.
+
+## Master's Research 🧑‍🔬
+
+### Agent AI × API Security 🤖🧠
+
+In my current master's research, I am working on security mechanisms for **agent-based AI systems that operate across SaaS and cloud APIs**.
+
+As AI agents become capable of performing real actions through external tools and APIs, it becomes increasingly important to control which operations are permitted, verify whether those operations are properly authorized, and confirm their behavior later in a trustworthy way.
+
+My research explores an integrated design that combines the following elements:
+
+- **Signed instructions** to prevent unauthorized or tampered commands
+- **Verifiable permission proofs** to reduce excessive privileges
+- **Tamper-resistant audit logs** to support later investigation and accountability
+
+The goal of this research is to design and prototype a security framework that can prevent or detect risks such as unauthorized API operations, privilege misuse, replay attacks, log tampering, and overreaching actions caused by prompt injection.
+
+## Undergraduate Research 📃
+
+### Cross-Chain Transaction Tracing 📍🔍
+
+In cryptocurrency transactions that span multiple blockchain ecosystems, records are distributed across different platforms. This makes it difficult to link the sender address and the recipient address, and this issue can be abused for money laundering of illicit funds obtained through cyberattacks such as ransomware.  
+To address this problem, I worked on **cross-chain transaction tracing** between different blockchain ecosystems as my undergraduate research.
+
+This research focused not on determining a single definitive answer, but on ranking candidate transactions that are likely to correspond across blockchains.  
+Specifically, I obtained real transaction data for each cryptocurrency through APIs, performed data cleaning, and implemented a deep learning model that takes the processed data as input and outputs the estimated ranking of corresponding transaction candidates.  
+I used **Python** as the programming language because it provides many useful libraries for implementing deep learning models, and I used **PyTorch** as the main deep learning library.
+
+This approach is useful in investigation and analysis scenarios because it can reduce the cost of manual verification while avoiding overly assertive conclusions.
+
+## Writing 💬
+
+### Qiita Articles ✍️
+
+On Qiita, I mainly write technical articles related to **security, cryptography, and blockchain**.  
+While organizing what I have learned in my own way, my goal is to communicate the knowledge and appeal of information security in a way that is easy for beginners to understand.
+
+Please feel free to check them out as well ✨
+
+<p align="center">
+  <a href="https://qiita.com/Kiryu_Kurauchi">
+    <img src="https://img.shields.io/badge/Read%20my%20articles%20on-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
+  </a>
+</p>
+
+## Statistics 📈
+
+![](https://raw.githubusercontent.com/kiryu1211/kiryu1211/output/github-contribution-grid-snake.svg)
+
+<p align="right">
   <a href="https://github.com/kiryu1211">
     <img height="20" src="https://komarev.com/ghpvc/?username=kiryu1211" />
   </a>
   <a href="https://github.com/kiryu1211">
     <img height="20" src="https://img.shields.io/github/followers/kiryu1211?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://qiita.com/Kiryu_Kurauchi">
-    <img height="20" src="https://img.shields.io/badge/Qiita-Kiryu_Kurauchi-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" />
   </a>
   <a href="http://qiita.com/Kiryu_Kurauchi">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Kiryu_Kurauchi/posts.svg" />
@@ -18,100 +119,8 @@
   </a>
 </p>
 
-## About Me 👾
-
-I'm a first-year master's student at the **Graduate School of Computer Science and Systems Engineering, Kyushu Institute of Technology**.  
-I am expected to graduate in **March 2028**.
-
-My major is **information security**, and I am interested in building secure systems by combining research, software implementation, and practical security thinking.
-
-I am especially interested in:
-
-- Cybersecurity
-- Cryptography and applied security
-- API security
-- AI agents and secure automation
-- Security-focused software design
-- Blockchain analysis
-
-Outside of technology, I enjoy **street dance**🕺.  
-Through dance and team activities, I have learned the importance of communication, continuous practice, and leading a team toward a shared goal.
-
-## Research
-
-### Agent AI × API Security
-
-My current master's research focuses on security mechanisms for **agent-based AI systems that operate across SaaS and cloud APIs**.
-
-As AI agents become capable of performing actions through external tools and APIs, it becomes increasingly important to control what they are allowed to do, verify whether their actions are authorized, and preserve trustworthy records of their behavior.
-
-My research explores an integrated design that combines:
-
-- **Signed instructions** to prevent unauthorized or altered commands
-- **Verifiable permission proofs** to reduce excessive privileges
-- **Tamper-resistant audit logs** to support later inspection and accountability
-
-The goal is to design and prototype a security framework that can help prevent or detect risks such as unauthorized API operations, privilege misuse, replay attacks, log tampering, and prompt-injection-induced overreach.
-
-## Previous Research
-
-### Cross-Chain Transaction Tracing
-
-In my undergraduate research, I worked on **cross-chain transaction tracing** between different blockchain ecosystems.
-
-The research focused on estimating corresponding transactions across blockchains by ranking candidate transactions instead of simply determining a single answer.
-
-This approach is useful in investigation and analysis scenarios because it can reduce the cost of manual verification while avoiding overconfident conclusions.
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,java,mysql,linux,git,github,vscode" alt="Tech Stack" />
-</p>
-
-### Languages and Tools
-
-- Python
-- Java
-- SQL
-- Linux
-- Git / GitHub
-- pandas
-- scikit-learn
-- PyTorch
-
-## Writing
-
-I also write technical articles on Qiita, mainly about security, cryptography, and blockchain-related topics.
-
-My goal is to explain technical concepts in a way that is accurate, understandable, and useful for beginners who want to study security step by step.
-
-- [Qiita: Kiryu_Kurauchi](https://qiita.com/Kiryu_Kurauchi)
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiryu1211&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiryu1211&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
-## Current Focus
-
-- Designing secure architectures for AI agents
-- Studying API security and access control
-- Writing technical articles about security and blockchain
-- Improving my portfolio through research-based implementation
-- Preparing for a career in security, financial IT, and AI-related systems
-
-## Contact
-
-Please feel free to check my GitHub repositories and Qiita articles.
-
-<p align="left">
-  <a href="https://qiita.com/Kiryu_Kurauchi">
-    <img src="https://img.shields.io/badge/Read%20my%20articles%20on-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
-  </a>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiryu1211&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiryu1211&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiryu1211&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiryu1211&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kiryu1211&theme=gruvbox&utcOffset=9)

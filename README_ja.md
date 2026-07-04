@@ -1,22 +1,8 @@
 # Hi! Welcome to my GitHub! 👋
 
-<p align="left">
-  <a href="https://github.com/kiryu1211">
-    <img height="20" src="https://komarev.com/ghpvc/?username=kiryu1211" />
-  </a>
-  <a href="https://github.com/kiryu1211">
-    <img height="20" src="https://img.shields.io/github/followers/kiryu1211?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://qiita.com/Kiryu_Kurauchi">
-    <img height="20" src="https://img.shields.io/badge/Qiita-Kiryu_Kurauchi-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" />
-  </a>
-  <a href="http://qiita.com/Kiryu_Kurauchi">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Kiryu_Kurauchi/posts.svg" />
-  </a>
-  <a href="http://qiita.com/Kiryu_Kurauchi">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Kiryu_Kurauchi/contributions.svg" />
-  </a>
-</p>
+### 🌐 Language: [English](./README.md) | 日本語
+
+!["Terminal-Style Profile SVG with Animation"](./terminal.svg)
 
 ## 自己紹介 👾
 
@@ -24,6 +10,42 @@
 **2028年3月に修了見込**です。
 
 専攻は**情報セキュリティ**であり、安全なシステム構築を目指して日々研究に取り組んでいます。
+
+## 言語・技術スタック 🛠️
+
+### 💻 Programming Languages
+
+[![Programming Languages](https://skillicons.dev/icons?i=py,java,js,html,css,bash,c,cpp,haskell,matlab&theme=dark&perline=10)](https://skillicons.dev)
+
+### 📚 Library & Framework
+
+[![Library & Framework](https://skillicons.dev/icons?i=react,nextjs,flask,fastapi,pytorch,tensorflow,sklearn&theme=dark&perline=7)](https://skillicons.dev)
+
+### 🔨 Platforms
+
+[![Platforms](https://skillicons.dev/icons?i=linux,ubuntu,gcp,azure,docker,nodejs,mysql,postgres,sqlite&theme=dark&perline=10)](https://skillicons.dev)
+
+### 🧰 Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,npm,bun&theme=dark&perline=9)](https://skillicons.dev)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge" alt="Claude Code" />
+</p>
+
+### 💾 Softwares
+
+[![Softwares](https://skillicons.dev/icons?i=vscode,androidstudio,pycharm,eclipse,unity,&theme=dark&perline=9)](https://skillicons.dev)
+
+### 📱 Applications
+
+[![Applications](https://skillicons.dev/icons?i=discord,gmail,notion,instagram,twitter,wordpress&theme=dark&perline=9)](https://skillicons.dev)
+
+### 🌱 In Studying
+
+[![In Studying](https://skillicons.dev/icons?i=php,ts,r,aws&theme=dark&perline=9)](https://skillicons.dev)
 
 ## 趣味 🏃
 
@@ -63,60 +85,40 @@ AIエージェントが外部ツールやAPIを通じて実際の操作を行え
 
 このアプローチは、調査や分析の場面において過度に断定的な結論を避けつつ、手作業による確認コストを削減できる点で有用です。
 
-## 言語・技術スタック 🛠️
+## 情報発信 💬
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,java,mysql,linux,git,github,vscode" alt="Tech Stack" />
-</p>
+### Qiita記事の執筆 ✍️
 
-### Languages and Tools
+Qiitaでは、主に**セキュリティ、暗号技術、ブロックチェーン**に関連する技術記事を執筆しています。  
+学んだ知識を自分なりに整理しながら、情報セキュリティの知識や面白さを初学者向けに分かりやすく発信することを目標にしています。
 
-- Python
-- Java
-- SQL
-- Linux
-- Git / GitHub
-- pandas
-- scikit-learn
-- PyTorch
+ぜひ合わせてご覧いただけますと幸いです✨
 
-## Writing
-
-Qiitaでは、主にセキュリティ、暗号技術、ブロックチェーンに関連する技術記事を執筆しています。
-
-技術的な内容を正確に整理しつつ、これからセキュリティを学ぶ人にも分かりやすく、段階的に理解できる記事を書くことを目標にしています。
-
-- [Qiita: Kiryu_Kurauchi](https://qiita.com/Kiryu_Kurauchi)
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiryu1211&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiryu1211&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
-## Current Focus
-
-- AIエージェントのための安全なアーキテクチャ設計
-- APIセキュリティとアクセス制御の学習
-- セキュリティとブロックチェーンに関する技術記事の執筆
-- 研究に基づく実装を通じたポートフォリオの充実
-- セキュリティ、金融IT、AI関連システム領域でのキャリア形成
-
-## Contact
-
-GitHubリポジトリやQiita記事をご覧いただけますと幸いです。
-
-<p align="left">
+<p align="center">
   <a href="https://qiita.com/Kiryu_Kurauchi">
     <img src="https://img.shields.io/badge/Read%20my%20articles%20on-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
   </a>
 </p>
 
-## Stats
+## 統計 📈
+
+![](https://raw.githubusercontent.com/kiryu1211/kiryu1211/output/github-contribution-grid-snake.svg)
+
+<p align="right">
+  <a href="https://github.com/kiryu1211">
+    <img height="20" src="https://komarev.com/ghpvc/?username=kiryu1211" />
+  </a>
+  <a href="https://github.com/kiryu1211">
+    <img height="20" src="https://img.shields.io/github/followers/kiryu1211?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/Kiryu_Kurauchi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Kiryu_Kurauchi/posts.svg" />
+  </a>
+  <a href="http://qiita.com/Kiryu_Kurauchi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Kiryu_Kurauchi/contributions.svg" />
+  </a>
+</p>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiryu1211&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiryu1211&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiryu1211&theme=gruvbox)
