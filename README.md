@@ -1,10 +1,10 @@
-!["Terminal-Style Profile SVG with Animation"](./terminal.svg)
-
 # Hi! Welcome to my GitHub! 👋
 
 ### 🌐 Language: English | [日本語](./README_ja.md)
 
 ## About Me 👾
+
+!["Terminal-Style Profile SVG with Animation"](./terminal.svg)
 
 I am a first-year master's student at the **Graduate School of Computer Science and Systems Engineering, Kyushu Institute of Technology**.  
 I am expected to complete my master's program in **March 2028**.
