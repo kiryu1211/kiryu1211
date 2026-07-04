@@ -1,16 +1,26 @@
 # Hi! Welcome to my GitHub! 👋
 
 <p align="left">
-  <a href="https://qiita.com/Kiryu_Kurauchi">
-    <img src="https://img.shields.io/badge/Qiita-Kiryu_Kurauchi-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" />
+  <a href="https://github.com/kiryu1211">
+    <img height="20" src="https://komarev.com/ghpvc/?username=kiryu1211" />
   </a>
-  <img src="https://img.shields.io/badge/Security-Research-blue?style=flat-square" alt="Security Research" />
-  <img src="https://img.shields.io/badge/Blockchain-Analysis-purple?style=flat-square" alt="Blockchain Analysis" />
+  <a href="https://github.com/kiryu1211">
+    <img height="20" src="https://img.shields.io/github/followers/kiryu1211?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://qiita.com/Kiryu_Kurauchi">
+    <img height="20" src="https://img.shields.io/badge/Qiita-Kiryu_Kurauchi-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" />
+  </a>
+  <a href="http://qiita.com/Kiryu_Kurauchi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Kiryu_Kurauchi/posts.svg" />
+  </a>
+  <a href="http://qiita.com/Kiryu_Kurauchi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Kiryu_Kurauchi/contributions.svg" />
+  </a>
 </p>
 
-## About Me
+## About Me 👾
 
-I am a first-year master's student at the **Graduate School of Computer Science and Systems Engineering, Kyushu Institute of Technology**.  
+I'm a first-year master's student at the **Graduate School of Computer Science and Systems Engineering, Kyushu Institute of Technology**.  
 I am expected to graduate in **March 2028**.
 
 My major is **information security**, and I am interested in building secure systems by combining research, software implementation, and practical security thinking.
@@ -18,13 +28,13 @@ My major is **information security**, and I am interested in building secure sys
 I am especially interested in:
 
 - Cybersecurity
-- Blockchain analysis
 - Cryptography and applied security
 - API security
 - AI agents and secure automation
 - Security-focused software design
+- Blockchain analysis
 
-Outside of technology, I enjoy **street dance**.  
+Outside of technology, I enjoy **street dance**🕺.  
 Through dance and team activities, I have learned the importance of communication, continuous practice, and leading a team toward a shared goal.
 
 ## Research

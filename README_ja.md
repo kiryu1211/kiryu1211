@@ -1,35 +1,42 @@
 # Hi! Welcome to my GitHub! 👋
 
 <p align="left">
-  <a href="https://qiita.com/Kiryu_Kurauchi">
-    <img src="https://img.shields.io/badge/Qiita-Kiryu_Kurauchi-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" />
+  <a href="https://github.com/kiryu1211">
+    <img height="20" src="https://komarev.com/ghpvc/?username=kiryu1211" />
   </a>
-  <img src="https://img.shields.io/badge/Security-Research-blue?style=flat-square" alt="Security Research" />
-  <img src="https://img.shields.io/badge/Blockchain-Analysis-purple?style=flat-square" alt="Blockchain Analysis" />
+  <a href="https://github.com/kiryu1211">
+    <img height="20" src="https://img.shields.io/github/followers/kiryu1211?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://qiita.com/Kiryu_Kurauchi">
+    <img height="20" src="https://img.shields.io/badge/Qiita-Kiryu_Kurauchi-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" />
+  </a>
+  <a href="http://qiita.com/Kiryu_Kurauchi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Kiryu_Kurauchi/posts.svg" />
+  </a>
+  <a href="http://qiita.com/Kiryu_Kurauchi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Kiryu_Kurauchi/contributions.svg" />
+  </a>
 </p>
 
-## About Me
+## 自己紹介 👾
 
-私は、**九州工業大学大学院 情報工学府**に所属する修士1年です。  
-**2028年3月修了予定**です。
+私は**九州工業大学大学院 情報工学府**に所属する修士1年です。  
+**2028年3月に修了見込**です。
 
-専攻は**情報セキュリティ**であり、研究、ソフトウェア実装、実践的なセキュリティの考え方を組み合わせながら、安全なシステムを構築することに関心があります。
+専攻は**情報セキュリティ**であり、安全なシステム構築を目指して日々研究に取り組んでいます。
 
-特に、以下の分野に興味があります。
+## 趣味 🏃
 
-- サイバーセキュリティ
-- ブロックチェーン解析
-- 暗号技術と応用セキュリティ
-- APIセキュリティ
-- AIエージェントと安全な自動化
-- セキュリティを意識したソフトウェア設計
+技術分野以外では、**ストリートダンス**が趣味です。
 
-技術分野以外では、**ストリートダンス**が趣味です。  
-ダンスやチーム活動を通じて、コミュニケーション、継続的な練習、共通の目標に向けてチームを導くことの大切さを学びました。
+現在、九州工業大学ストリートダンスサークル「Free Style」に所属しており、学部3年次（2024年度）には部長を務め、一人でも多くの部員が楽しんで参加し続けたくなるサークル作りに注力しました。  
+サークル活動を通じて、周りと相談し合いながら共通の目標に向けてチームを導くことの大切さを学びました。
 
-## Research
+主な成績として、九州大学生ストリートダンスバトル**個人優勝・チーム準優勝**、大学生ダンスコンテスト**九州大会優勝・全国大会出場**の経験があります。
 
-### Agent AI × API Security
+## 修士研究 🧑‍🔬
+
+### Agent AI × API Security 🤖🧠
 
 現在の修士研究では、**SaaSやクラウドAPIを横断して操作するエージェント型AIシステム**に対するセキュリティ機構に取り組んでいます。
 
@@ -41,19 +48,22 @@ AIエージェントが外部ツールやAPIを通じて実際の操作を行え
 - **検証可能な権限証明**による、過剰権限の抑制
 - **改ざん耐性のある監査ログ**による、後からの調査と説明責任の支援
 
-この研究の目的は、不正なAPI操作、権限の悪用、リプレイ攻撃、ログ改ざん、プロンプトインジェクションに起因する越権操作などのリスクを防止または検知できるセキュリティフレームワークを設計し、プロトタイプとして実装することです。
+この研究は、不正なAPI操作、権限の悪用、リプレイ攻撃、ログ改ざん、プロンプトインジェクションに起因する越権操作などのリスクを防止または検知できるセキュリティフレームワークを設計し、プロトタイプとして実装することを目的としています。
 
-## Previous Research
+## 卒業研究 📃
 
-### Cross-Chain Transaction Tracing
+### Cross-Chain Transaction Tracing 📍🔍
 
-学部研究では、異なるブロックチェーン基盤間の**クロスチェーン取引追跡**に取り組みました。
+複数のブロックチェーン基盤にまたがる暗号資産の取引では、記録が各基盤に分散して残るため送金元アドレスと受取先アドレスを結び付けにくく、ランサムウェア等のサイバー攻撃による不正資金のマネーロンダリングに悪用される課題があります。  
+そこで私は学部研究として、異なるブロックチェーン基盤間の**クロスチェーン取引追跡**に取り組みました。
 
-この研究では、単一の正解を断定するのではなく、ブロックチェーン間で対応すると考えられる取引候補を順位付けすることに焦点を当てました。
+この研究では、単一の正解を断定するのではなく、ブロックチェーン間で対応すると考えられる取引候補を順位付けすることに焦点を当てました。  
+具体的には、APIを通じて各暗号資産のトランザクション実データを取得し、データクレンジング後に入力を行い対応する取引候補の順序をそれぞれ推定して結果を出力する深層学習モデルを実装した。  
+使用言語として、深層学習モデル実装に有用なライブラリがそろっている**Python**を使用し、ライブラリとして**PyTorch**を用いた。
 
-このアプローチは、調査や分析の場面において、過度に断定的な結論を避けつつ、手作業による確認コストを削減できる点で有用です。
+このアプローチは、調査や分析の場面において過度に断定的な結論を避けつつ、手作業による確認コストを削減できる点で有用です。
 
-## Tech Stack
+## 言語・技術スタック 🛠️
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,java,mysql,linux,git,github,vscode" alt="Tech Stack" />
@@ -105,3 +115,10 @@ GitHubリポジトリやQiita記事をご覧いただけますと幸いです。
     <img src="https://img.shields.io/badge/Read%20my%20articles%20on-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
   </a>
 </p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiryu1211&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiryu1211&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiryu1211&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiryu1211&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kiryu1211&theme=gruvbox&utcOffset=9)
