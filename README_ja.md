@@ -1,8 +1,8 @@
+!["Terminal-Style Profile SVG with Animation"](./terminal.svg)
+
 # Hi! Welcome to my GitHub! 👋
 
 ### 🌐 Language: [English](./README.md) | 日本語
-
-!["Terminal-Style Profile SVG with Animation"](./terminal.svg)
 
 ## 自己紹介 👾
 
@@ -104,6 +104,12 @@ Qiitaでは、主に**セキュリティ、暗号技術、ブロックチェー�
 
 ![](https://raw.githubusercontent.com/kiryu1211/kiryu1211/output/github-contribution-grid-snake.svg)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiryu1211&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiryu1211&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiryu1211&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiryu1211&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kiryu1211&theme=gruvbox&utcOffset=9)
+
 <p align="right">
   <a href="https://github.com/kiryu1211">
     <img height="20" src="https://komarev.com/ghpvc/?username=kiryu1211" />
@@ -118,9 +124,3 @@ Qiitaでは、主に**セキュリティ、暗号技術、ブロックチェー�
     <img height="20" src="https://qiita-badge.apiapi.app/s/Kiryu_Kurauchi/contributions.svg" />
   </a>
 </p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiryu1211&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiryu1211&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiryu1211&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiryu1211&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kiryu1211&theme=gruvbox&utcOffset=9)
